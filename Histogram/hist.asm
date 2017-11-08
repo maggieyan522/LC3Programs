@@ -4,7 +4,7 @@
 ; Name: Adithya Balaji
 ; ID: 200196881
 ; Class: ECE109
-; Date: 7 NV 2017
+; Date: 7 November 2017
 ; Version: 1.0
 ;
 ; Description: A histogram plotter for the PennSim application
